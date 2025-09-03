@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import Lottie from "lottie-react";
-import loadingAnimation from "../assets/loading.json";
+import loadingAnimation from "../assets/Loading.json";
 import correctAnimation from "../assets/correct.json";
 import wrongAnimation from "../assets/wrong.json";
 
